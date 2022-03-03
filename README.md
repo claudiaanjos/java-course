@@ -30,8 +30,6 @@ Nós também vamos aprender as principais ferramentas e frameworks para se traba
 
 - JavaFX para interface gráfica
 
-- Git / Github para versionamento
-
 - Spring Boot - principal framework Java para desenvolvimento comercial em Java
 
 - JPA / Hibernate para acesso a dados com mapeamento objeto-relacional (ORM)
