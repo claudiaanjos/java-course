@@ -22,10 +22,6 @@ Os tópicos do curso incluem:
 
 - Programação funcional e expressões lambda, Stream API
 
-
-Nós também vamos aprender as principais ferramentas e frameworks para se trabalhar com Java profissionalmente no mercado, tais como:
-
-
 - JDBC para acesso a dados baseado em SQL
 
 - JavaFX para interface gráfica
